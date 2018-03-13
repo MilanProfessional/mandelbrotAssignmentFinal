@@ -1,0 +1,10 @@
+E:\The British College\ProjectC#\MandelbrotAssignmentFinal\MandelbrotAssignmentFinal\bin\Debug\MandelbrotAssignmentFinal.exe.config
+E:\The British College\ProjectC#\MandelbrotAssignmentFinal\MandelbrotAssignmentFinal\bin\Debug\MandelbrotAssignmentFinal.exe
+E:\The British College\ProjectC#\MandelbrotAssignmentFinal\MandelbrotAssignmentFinal\bin\Debug\MandelbrotAssignmentFinal.pdb
+E:\The British College\ProjectC#\MandelbrotAssignmentFinal\MandelbrotAssignmentFinal\obj\Debug\MandelbrotAssignmentFinal.csprojResolveAssemblyReference.cache
+E:\The British College\ProjectC#\MandelbrotAssignmentFinal\MandelbrotAssignmentFinal\obj\Debug\MandelbrotAssignmentFinal.Fractal.resources
+E:\The British College\ProjectC#\MandelbrotAssignmentFinal\MandelbrotAssignmentFinal\obj\Debug\MandelbrotAssignmentFinal.Properties.Resources.resources
+E:\The British College\ProjectC#\MandelbrotAssignmentFinal\MandelbrotAssignmentFinal\obj\Debug\MandelbrotAssignmentFinal.csproj.GenerateResource.Cache
+E:\The British College\ProjectC#\MandelbrotAssignmentFinal\MandelbrotAssignmentFinal\obj\Debug\MandelbrotAssignmentFinal.csproj.CoreCompileInputs.cache
+E:\The British College\ProjectC#\MandelbrotAssignmentFinal\MandelbrotAssignmentFinal\obj\Debug\MandelbrotAssignmentFinal.exe
+E:\The British College\ProjectC#\MandelbrotAssignmentFinal\MandelbrotAssignmentFinal\obj\Debug\MandelbrotAssignmentFinal.pdb
